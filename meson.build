@@ -23,7 +23,7 @@ executable(
     'prcrun',
     cpp_args : cpp_args,
     sources : app_src,
-    install : false,
+    install : true,
 )
 
 
